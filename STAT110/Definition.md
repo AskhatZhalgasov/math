@@ -1,1 +1,2 @@
-Sample space - set of possibl
+Sample space - set of all possible outcomes
+Event - 
