@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20445791ea55181f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources.md",
+            "file": "Learning.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Resources.md",
+            "file": "Learning.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Resources.md"
+            "file": "Learning.md"
           }
         }
       }
@@ -131,16 +144,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ca770cc021794d4",
+  "active": "20445791ea55181f",
   "lastOpenFiles": [
-    "Sources/ISLP_website.pdf",
     "Resources.md",
+    "Learning.md",
+    "study_plan.md",
+    "1802sc.md",
+    "Sources/ISLP_website.pdf",
     "Sources/dice1.pdf",
     "Sources/fifty_challenging_problems_in__2.pdf",
     "Sources/casella-berger.pdf",
     "Sources",
-    "1802sc.md",
-    "study_plan.md",
     "2023-11-18.md"
   ]
 }
