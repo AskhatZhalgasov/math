@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86073e0eb9a9bd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "STAT110/Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "STAT110/Definition.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "STAT110/Definition.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "STAT110/Definition.md"
           }
         }
       }
@@ -156,10 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86073e0eb9a9bd44",
+  "active": "20445791ea55181f",
   "lastOpenFiles": [
-    "Learning.md",
     "Untitled.md",
+    "STAT110/Definition.md",
+    "STAT110",
+    "Learning.md",
     "Resources.md",
     "study_plan.md",
     "1802sc.md",

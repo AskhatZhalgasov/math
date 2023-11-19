@@ -1,0 +1,1 @@
+Sample space - set of possible outcomes
