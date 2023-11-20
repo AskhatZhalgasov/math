@@ -11,11 +11,9 @@
             "id": "20445791ea55181f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "STAT110/Definition.md",
-                "mode": "source",
-                "source": false
+                "file": "Sources/dice1.pdf"
               }
             }
           },
@@ -97,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "STAT110/Definition.md",
+            "file": "Sources/dice1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "STAT110/Definition.md",
+            "file": "Sources/dice1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "STAT110/Definition.md"
+            "file": "Sources/dice1.pdf"
           }
         }
       }
@@ -145,8 +143,8 @@
   },
   "active": "20445791ea55181f",
   "lastOpenFiles": [
-    "J.md",
     "STAT110/Definition.md",
+    "J.md",
     "Dice problems",
     "Untitled",
     "Resources.md",
