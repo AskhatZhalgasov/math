@@ -4,5 +4,5 @@ Let’s
 $$ 
 \begin{equation}
 P(N=i)=\frac{1}{6}*(\frac{5}{6})^{i-1}(1)
-
+\end{equation}
 $$
