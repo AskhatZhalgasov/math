@@ -16,14 +16,20 @@
                 "file": "Sources/dice1.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "691e4ab7024ab486",
+        "type": "tabs",
+        "children": [
           {
             "id": "947f07a537706f40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "J.md",
+                "file": "Problem 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sources/dice1.pdf",
+            "file": "Problem 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sources/dice1.pdf",
+            "file": "Problem 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sources/dice1.pdf"
+            "file": "Problem 1.md"
           }
         }
       }
@@ -141,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20445791ea55181f",
+  "active": "947f07a537706f40",
   "lastOpenFiles": [
+    "Sources/dice1.pdf",
+    "Problem 1.md",
     "STAT110/Definition.md",
-    "J.md",
     "Dice problems",
     "Untitled",
     "Resources.md",
@@ -153,7 +160,6 @@
     "study_plan.md",
     "1802sc.md",
     "Sources/ISLP_website.pdf",
-    "Sources/dice1.pdf",
     "Sources/fifty_challenging_problems_in__2.pdf",
     "Sources/casella-berger.pdf",
     "Sources",
