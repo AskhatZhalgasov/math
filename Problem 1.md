@@ -8,5 +8,5 @@ $$
 
 Then answer Is 
 $$
-\sum_{1}_{\in}
+\sum_{1}^{\infinity}
 $$
