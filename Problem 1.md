@@ -8,5 +8,5 @@ $$
 
 Then answer Is 
 $$
-\sum_{1}^{\infty}
+\sum_{n=1}^{\infty} n\
 $$
