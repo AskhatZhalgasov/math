@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ca770cc021794d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20445791ea55181f",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "947f07a537706f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "J.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,11 +145,13 @@
   },
   "active": "20445791ea55181f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "J.md",
     "STAT110/Definition.md",
+    "Dice problems",
+    "Untitled",
+    "Resources.md",
     "STAT110",
     "Learning.md",
-    "Resources.md",
     "study_plan.md",
     "1802sc.md",
     "Sources/ISLP_website.pdf",
