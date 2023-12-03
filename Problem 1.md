@@ -16,6 +16,7 @@ $$
 \sum_{n=1}^{\infty} n \cdot r^{n} = r \cdot \sum_{n=1}^{\infty} n \cdot r^{n-1} = 
 r \frac{d}{dr}\sum_{n=1}^{\infty} r^{n} = 
 r \cdot \frac{d}{dr} \left(\frac{1}{1-r}\right) = 
+\frac{r}{(1-r)^{2}}
 
 
 $$
