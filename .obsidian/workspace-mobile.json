@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "245a62ccc548ab88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20445791ea55181f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sources/dice1.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "691e4ab7024ab486",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem 1.md",
+                "file": "2023-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Problem 1.md",
+            "file": "2023-12-03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Problem 1.md",
+            "file": "2023-12-03.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Problem 1.md"
+            "file": "2023-12-03.md"
           }
         }
       }
@@ -149,8 +133,9 @@
   },
   "active": "947f07a537706f40",
   "lastOpenFiles": [
-    "Sources/dice1.pdf",
     "Problem 1.md",
+    "2023-12-03.md",
+    "Sources/dice1.pdf",
     "STAT110/Definition.md",
     "Dice problems",
     "Untitled",
